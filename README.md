@@ -14,7 +14,7 @@ $pip install mechanize requests bs4
 
 $termux-setup-storage
 
-$git clone https://github.com/TwintiFOUR/nuyulview
+$git clone https://github.com/TwintyFOUR/nuyulview
 
 $cd nuyulview
 
